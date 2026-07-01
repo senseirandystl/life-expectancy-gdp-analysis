@@ -90,8 +90,6 @@ All visualizations were created using **Seaborn** and **Matplotlib** with profes
 - **Python Ecosystem** — pandas, numpy, matplotlib, seaborn, Jupyter
 - **Portfolio-Ready Documentation** — clean code, narrative explanations, reproducible analysis
 
-This project aligns with my professional experience building Excel dashboards and data pipelines that drove 100% on-time reporting and >100% throughput improvements in regulated lab environments.
-
 ---
 
 ## Data Sources
