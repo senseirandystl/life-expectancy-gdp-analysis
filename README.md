@@ -144,13 +144,14 @@ This project showcases my ability to take a raw dataset, perform rigorous EDA, c
 - Incorporate additional variables: healthcare expenditure % GDP, Gini coefficient, education indices
 - Build an interactive dashboard (Plotly Dash or Streamlit)
 - Time-series forecasting of life expectancy based on GDP trends
-
+   
 ---
 
-*Thank you for reviewing this project. I'm actively seeking Data Analyst, Project Coordinator, or BI Analyst roles in the St. Louis / St. Charles, MO area (or remote/hybrid). Please see my [Data Analyst Resume](https://www.linkedin.com/in/randall-james-stl) and other projects on [GitHub](https://github.com/senseirandystl).*
+**About Me**  
+Randall James | Data Coordinator / Data Analyst / Project Manager  
+St. Louis, MO (O'Fallon area) | Open to remote, hybrid, or on-site within ~30 min commute  
+[LinkedIn](https://www.linkedin.com/in/randall-james-stl) | [GitHub](https://github.com/senseirandystl) | randalljames34@pm.me
 
-**Contact:** randalljames34@pm.me | (314) 223-9762 | O'Fallon, MO
-
----
+*This project was created as part of my professional portfolio to demonstrate data analysis capabilities.*
 
 *This project was completed as part of the Codecademy Data Analyst Career Path capstone and enhanced for professional portfolio use.*
